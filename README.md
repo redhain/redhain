@@ -8,7 +8,7 @@
 | Component       | Specs                |
 |----------------|----------------------|
 | Processor       | Intel i5-6400        |
-| RAM             | 8 GB                 |
+| RAM             | 24 GB                 |
 | Graphics Card   | NVIDIA GTX 1660 Super|
 | OS              | Debian               |
 
