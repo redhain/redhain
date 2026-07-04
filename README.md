@@ -13,8 +13,8 @@
 | OS              | Debian               |
 
 🛠️ **Tech Stack**  
-- **Languages:** Python, C  
-- **Frameworks:** Django, Flask  
+- **Languages:** Python, C, Javascript
+- **Frameworks:** Flask, Node.js
 
 🎮 **Interests**  
-Gaming · Art · Gardening
+Cooking · Gym · Mountaineering
