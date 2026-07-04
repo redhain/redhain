@@ -17,4 +17,4 @@
 - **Frameworks:** Flask, Node.js
 
 🎮 **Interests**  
-Cooking · Gym · Mountaineering
+Cooking · Gym · Hiking
