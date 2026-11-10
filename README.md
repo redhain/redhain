@@ -5,8 +5,8 @@
 - Major: **Computer Science & Engineering**
 
 🛠️ **Tech Stack**  
-- **Languages:** Python, C/C++
-- **Frameworks:** Flask
+- **Languages:** JavaScript, C/C++
+- **Frameworks:** React, Node.js
 
 🎮 **Interests**  
-Cooking · Gym · Hiking
+Cooking · Gym · Football · Boxing
