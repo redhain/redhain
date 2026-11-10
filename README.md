@@ -5,7 +5,7 @@
 - Major: **Computer Science & Engineering**
 
 🛠️ **Tech Stack**  
-- **Languages:** JavaScript, C/C++
+- **Languages:** JavaScript, C/C++, Python
 - **Frameworks:** React, Node.js
 
 🎮 **Interests**  
